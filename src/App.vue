@@ -6,6 +6,8 @@
     <div class="counter">
       {{ number }}
     </div>
+
+    <p>Это тестовый проект</p>
   </div>
 </template>
 
